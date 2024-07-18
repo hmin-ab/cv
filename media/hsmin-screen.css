@@ -194,8 +194,8 @@ strong {
 
 /* hsmin */
 
-img profile-image {
-    float: right;
+img {
+    display: block; /* 블록 요소로 표시 */
     width: 150px;
     height: 150px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
