@@ -7,7 +7,7 @@ title: Hyangsuk Min's CV
 
 
 # Hyangsuk Min
-
+<img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
 AI Research Engineer
 
 <div id="webaddress">
