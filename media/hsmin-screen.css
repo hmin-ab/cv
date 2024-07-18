@@ -132,6 +132,8 @@ h1 {
 
 h1+p {
 	/*subtitle*/
+	margin-top: 10px; /* 위쪽 여백을 10px로 설정 */
+    	margin-bottom: 10px; /* 아래쪽 여백을 10px로 설정 */
 	font-style: italic;
 	font-size: 110%;
 }
