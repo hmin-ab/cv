@@ -71,7 +71,7 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
   - `Time-series`, `COVID-19`
 - [c1] Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea, `KDD`, Aug. 2020 (AI for COVID track)
   - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
-  - `Time-series`, COVID-19`, `Transformer`
+  - `Time-series`, `COVID-19`, `Transformer`
 
 ## Certificate
 - SQLD
