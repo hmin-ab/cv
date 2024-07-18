@@ -41,24 +41,24 @@ I am an AI Research Engineer with two years of experience. Currently, I am part 
 
 
 ## Publications
-A list is also available [online](http://scholar.google.co.uk/citations?user=U24LXHAAAAAJ)
+> __A list is also available [online](http://scholar.google.co.uk/citations?user=U24LXHAAAAAJ)__
 
 - [c4] Language-driven Synthetic Image Generation for Object Detection in Uncharted Driving Site, `EVS37`, Apr. 2024
-  - regular paper
   - J. Nam, **H. Min**, J. Shin, J. Jung.
+  - Regular paper
   - `Images`, `Generative AI`, `Zero-shot`
 - [c3] Temporal Convolutional Network-Based Time-Series Segmentation, `BigComp`, Feb. 2023
-  - regular paper
   - **H. Min**, and J. Lee
-  - `Time-series`, `Unsupservised Learning`, `TCN`
+  - Regular paper
+  - `Time-series`, `Segmentation`, `Unsupservised learning`, `Temporal clustering`
 - [c2] COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies, `AAAI`, Feb. 2022
-  - oral paper
   - D. Kim, **H. Min**, Y. Nam, H. Song, S. Yoon, M. Kim, and J. Lee
-  - `Time-series`, `COVID-19`
+  - Oral paper
+  - `Time-series`, `COVID-19`, `AI For Social Impact`, `Humans And AI`
 - [c1] Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea, `KDD`, Aug. 2020
-  - AI for COVID track
   - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
-  - `Time-series`, `COVID-19`, `Transformer`
+  - AI for COVID track
+  - `Time-series`, `COVID-19`, `Inflow infection prevention`, `Deep learning`, `Neural networks`
 
 ## Patents
 - [p3] Lee, JG., Kim, D., Min, H., Nam, Y., Song, H., Yoon, S., and Kim, M., "Aapparatus and method for predicting economic impact of mass infections based deep neural network" Korean Patent Registration No: 10-2583776-0000, Sep. 22, 2023.
