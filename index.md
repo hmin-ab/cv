@@ -3,18 +3,22 @@ layout: cv
 title: Hyangsuk Min's CV
 ---
 
-<p><img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image"></p>
+<div class="header-container">
+    <img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
+    <h1>Hyangsuk Min</h1>
 
-
-# Hyangsuk Min
-AI Research Engineer
-
-<div id="webaddress">
+  <div id="webaddress">
 <a href="hyangsukmin@email.com">Email</a> | 
 <a href="https://www.linkedin.com/in/hyangsukmin/">Linkedin</a>
 </div>
 
+
 I am an AI Research Engineer with two years of experience. Currently, I am part of the M2MCx team at HL Mando, specializing in advanced research using AI technologies. I am currently working on MLOps development and AI model development for Smart Factory and Software-Defined Vehicle (SDV) technologies. Additionally, I am leveraging Large Language Models (LLMs) to advance internal AI Digital Transformation (DT) projects, focusing on enhancing the efficiency of internal developers. My recent interests include fine-tuning and optimizing LLMs for lightweight applications and improving their reliability and trustworthiness.
+
+
+</div>
+
+
 
 
 ## Education
