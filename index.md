@@ -17,19 +17,6 @@ AI Research Engineer
 
 I am an AI Research Engineer with two years of experience. Currently, I am part of the M2MCx team at HL Mando, specializing in advanced research using AI technologies. I am currently working on MLOps development and AI model development for Smart Factory and Software-Defined Vehicle (SDV) technologies. Additionally, I am leveraging Large Language Models (LLMs) to advance internal AI Digital Transformation (DT) projects, focusing on enhancing the efficiency of internal developers. My recent interests include fine-tuning and optimizing LLMs for lightweight applications and improving their reliability and trustworthiness.
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-AI, MLOps, LLM, Efficiency, Efficient AI, Lightweight-AI, Time-series, Vision, NLP
-
 
 ## Education
 `2020.03-2022.08` __MS in Data Science, Korea Advance Institute of Science Technology, Daejeon, Korea.__
