@@ -103,7 +103,7 @@ ul {
 }*/
 
 /* 첫 번째 레벨의 li */
-li:before {
+ul li:before {
     content: "■"; /* 작은 네모 */
     position: relative;
     left: -0.25em;
