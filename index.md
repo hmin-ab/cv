@@ -3,7 +3,7 @@ layout: cv
 title: Hyangsuk Min's CV
 ---
 
-<img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
+<img src="./assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
 
 # Hyangsuk Min
 AI Research Engineer
