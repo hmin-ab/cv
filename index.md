@@ -42,17 +42,18 @@ AI, MLOps, LLM, Efficiency, Efficient AI, Lightweight-AI, Time-series, Vision, N
   - Final Project: Music Recommendation System Based-on Text
 
 ## Experience
-`2022.10-present` __<a href="https://www.hlmando.com/ko/solution/sw.do">HL Mando</a>, Pangyo, Korea__ (차량용 통합 소프트웨어 솔루션 제공)
+`2022.10-present` __AI Engineer, <a href="https://www.hlmando.com/ko/solution/sw.do">HL Mando</a>, Pangyo, Korea__ 
+- 차량용 통합 소프트웨어 솔루션 제공 회사
 - LLM 활용 AI Digital Transformation (2024 ~ )
 - Smart Factory 위한 부품 불량 탐지 Vision 모델 및 MLOps 개발 (2024)
 - LLM 활용 합성 데이터 생성을 통한 객체 탐지 모델 성능 향상 (2023)
 - GAN 활용 부품 불량 이미지 생성을 통한 데이터 불균형 문제 해소 (2023)
 - SDV Phm을 위한 MLOps 시스템 개발 (2023)
   
-`2018.08-2019.06` __<a href="https://www.uniquify.com">Uniquify</a>, SanJose, CA, USA__ (ASIC 개발, SoC설계 및 IP solutions 제공)
+`2018.08-2019.06` __Intern, Pyhsical Design Engineer, <a href="https://www.uniquify.com">Uniquify</a>, SanJose, CA, USA__ 
+- ASIC 개발, SoC설계 및 IP solutions 제공 회사
 - ASIC PnR & ECO
-- Perl 활용 Timing/Violation Report 요약 프로그램 개발
-- TensorFlow 활용 AI Vision 개발
+- Perl 활용 timing report/violation report 요약 프로그램 개발 (기존 대비 2배 속도 향상)
 
 
 ## Publications
