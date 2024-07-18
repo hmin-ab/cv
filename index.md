@@ -3,20 +3,18 @@ layout: cv
 title: Hyangsuk Min's CV
 ---
 
-<div class="header-container">
-    <img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
-    <div class="text-container">
-        <h1>Hyangsuk Min</h1>
-        <p>AI Research Engineer</p>
-        <div id="webaddress">
-            <a href="hyangsukmin@email.com">Email</a> | 
-            <a href="https://www.linkedin.com/in/hyangsukmin/">Linkedin</a>
-        </div>
-        <p>I am an AI Research Engineer with two years of experience. Currently, I am part of the M2MCx team at HL Mando, specializing in advanced research using AI technologies. I am currently working on MLOps development and AI model development for Smart Factory and Software-Defined Vehicle (SDV) technologies. Additionally, I am leveraging Large Language Models (LLMs) to advance internal AI Digital Transformation (DT) projects, focusing on enhancing the efficiency of internal developers. My recent interests include fine-tuning and optimizing LLMs for lightweight applications and improving their reliability and trustworthiness.</p>
-    </div>
-</div>
+<img src="/assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
 
-<div class="text-container">
+# Hyangsuk Min
+AI Research Engineer
+
+<div id="webaddress">
+    <a href="hyangsukmin@email.com">Email</a> | 
+    <a href="https://www.linkedin.com/in/hyangsukmin/">Linkedin</a>
+</div>
+        
+I am an AI Research Engineer with two years of experience. Currently, I am part of the M2MCx team at HL Mando, specializing in advanced research using AI technologies. I am currently working on MLOps development and AI model development for Smart Factory and Software-Defined Vehicle (SDV) technologies. Additionally, I am leveraging Large Language Models (LLMs) to advance internal AI Digital Transformation (DT) projects, focusing on enhancing the efficiency of internal developers. My recent interests include fine-tuning and optimizing LLMs for lightweight applications and improving their reliability and trustworthiness.
+
 ## Education
 `2020.03-2022.08` __MS in Data Science, Korea Advance Institute of Science Technology, Daejeon, Korea.__
 - GPA: 4.12/4.3
@@ -67,7 +65,7 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
 ## Certificate
 - SQLD
 - ADP
-</div>
+
 ### Footer
 Last updated: May 2024
 
