@@ -49,7 +49,7 @@ AI, MLOps, LLM, Efficiency, Efficient AI.
 - GAN 활용 부품 불량 이미지 생성을 통한 데이터 불균형 문제 해소 (2023)
 - SDV Phm을 위한 MLOps 시스템 개발 (2023)
   
-`2018.08-2019.06` __<a href="https://www.uniquify.com">Uniquify</a>, SanJose, CA, USA__ (ASIC 개발, SoC설계 및 IP solutions 제공 업체)
+`2018.08-2019.06` __<a href="https://www.uniquify.com">Uniquify</a>, SanJose, CA, USA__ (ASIC 개발, SoC설계 및 IP solutions 제공)
 - ASIC PnR & ECO
 - Perl 활용 Timing/Violation Report 요약 프로그램 개발
 - TensorFlow 활용 AI Vision 개발
@@ -71,14 +71,9 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
   - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
   - `Time-series`, COVID-19`, `Transformer`
 
-
-## Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 ## Certificate
-`SQLD`, `ADP`
+- SQLD
+- ADP
 
 <!-- ### Footer
 
