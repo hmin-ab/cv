@@ -56,7 +56,8 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
   - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
   - `Time-series`, COVID-19`, `Transformer`
 
-### Patents
+
+## Patents
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
