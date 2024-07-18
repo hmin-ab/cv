@@ -109,17 +109,17 @@ ul {
 
 /*uncomment to get dashes in the list*/
 /*li:before {
-	content: "■";
+	content: "";
 	position: relative;
 	left: -0.25em;
 }*/
 
 /* 첫 번째 레벨의 li */
 ul li:before {
-    content: "■"; /* 작은 네모 */
+    content: "⚫"; /* 작은 네모 */
     position: relative;
     left: -0.25em;
-    font-size: 0.75em; /* 기호 크기 조정 */
+    font-size: 0.3em; /* 기호 크기 조정 */
 }
 
 /* 두 번째 레벨의 li */
