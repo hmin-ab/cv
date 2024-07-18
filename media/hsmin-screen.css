@@ -194,7 +194,7 @@ strong {
 
 /* hsmin */
 
-img {
+.profile-image {
     display: block; /* 블록 요소로 표시 */
     width: 150px;
     height: 150px;
