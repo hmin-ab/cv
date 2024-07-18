@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hyangsuk Min's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hyangsuk Min
+AI Research Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -26,34 +26,16 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
+`2020.03-2023.08`
+__Korea Advance Institute of Science Technology, Daejeon, Korea.__
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2015.03-2019.08`
+__Kookmin University, Seoul, Korea.__
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
