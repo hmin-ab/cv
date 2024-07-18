@@ -2,12 +2,15 @@
 layout: cv
 title: Hyangsuk Min's CV
 ---
+<img src="./assets/profile.png", height="100x", width="100px">
+
 # Hyangsuk Min
+
+
 AI Research Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hyangsukmin@email.com">Email</a>
 </div>
 
 
@@ -26,26 +29,30 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
-`2020.03-2023.08`
-__Korea Advance Institute of Science Technology, Daejeon, Korea.__
+`2020.03-2022.08` __MS in Data Science, Korea Advance Institute of Science Technology, Daejeon, Korea.__
+- GPA: 4.12/4.3
+- Advisor: Jae-Gil Lee (<a href="https://kaistdmlab.org">Data Mining Lab</a>)
+- Thesis: Temporal Convolutional Network-Based Time-Series Segmentation
 
-`2015.03-2019.08`
-__Kookmin University, Seoul, Korea.__
-
+`2015.03-2019.08` __BS in Data Science, Kookmin University, Seoul, Korea.__
+  - GPA: 4.4/4.5
+  - Final Project: Music Recommendation System Based-on Text
 
 ## Publications
+A list is also available [online](http://scholar.google.co.uk/citations?user=U24LXHAAAAAJ)
 
-A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+- [c4] Language-driven Synthetic Image Generation for Object Detection in Uncharted Driving Site, `EVS37`, Apr. 2024 (regular paper)
+  - J. Nam, **H. Min**, J. Shin, J. Jung.
+  - `Images`, `Generative AI`, `Zero-shot`
+- [c3] Temporal Convolutional Network-Based Time-Series Segmentation, `BigComp`, Feb. 2023 (regular paper)
+  - **H. Min**, and J. Lee
+  - `Time-series`, `Unsupservised Learning`, `TCN`
+- [c2] COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies, `AAAI`, Feb. 2022 (oral paper)
+  - D. Kim, **H. Min**, Y. Nam, H. Song, S. Yoon, M. Kim, and J. Lee
+  - `Time-series`, `COVID-19`
+- [c1] Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea, `KDD`, Aug. 2020 (AI for COVID track)
+  - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
+  - `Time-series`, COVID-19`, `Transformer`
 
 ### Patents
 
@@ -53,21 +60,8 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
 
 
