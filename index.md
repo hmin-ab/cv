@@ -3,7 +3,7 @@ layout: cv
 title: Hyangsuk Min's CV
 ---
 
-![avatar](./assets/grace_avatar.jpeg){:width="30%" height="30%"}
+![avatar](./assets/grace_avatar.jpeg){:width="25%" height="25%"}
 
 # Hyangsuk Min
 
@@ -11,9 +11,11 @@ title: Hyangsuk Min's CV
 AI Research Engineer
 
 <div id="webaddress">
-<a href="hyangsukmin@email.com">Email</a>
+<a href="hyangsukmin@email.com">Email</a> | 
+<a href="https://www.linkedin.com/in/hyangsukmin/">Linkedin</a>
 </div>
 
+I am an AI Research Engineer with two years of experience. Currently, I am part of the M2MCx team at HL Mando, specializing in advanced research using AI technologies. I am currently working on MLOps development and AI model development for Smart Factory and Software-Defined Vehicle (SDV) technologies. Additionally, I am leveraging Large Language Models (LLMs) to advance internal AI Digital Transformation (DT) projects, focusing on enhancing the efficiency of internal developers. My recent interests include fine-tuning and optimizing LLMs for lightweight applications and improving their reliability and trustworthiness.
 
 ## Currently
 
@@ -26,7 +28,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+AI, MLOps, LLM, Efficiency, Efficient AI.
 
 
 ## Education
@@ -38,6 +40,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `2015.03-2019.08` __BS in Data Science, Kookmin University, Seoul, Korea.__
   - GPA: 4.4/4.5
   - Final Project: Music Recommendation System Based-on Text
+
+## Experience
+`2022.10-present` __<a href="https://www.hlmando.com/ko/solution/sw.do">HL Mando</a>, Pangyo, Korea__ (차량용 통합 소프트웨어 솔루션 제공)
+- LLM 활용 AI Digital Transformation (2024 ~ )
+- Smart Factory 위한 부품 불량 탐지 Vision 모델 및 MLOps 개발 (2024)
+- LLM 활용 합성 데이터 생성을 통한 객체 탐지 모델 성능 향상 (2023)
+- GAN 활용 부품 불량 이미지 생성을 통한 데이터 불균형 문제 해소 (2023)
+- SDV Phm을 위한 MLOps 시스템 개발 (2023)
+  
+`2018.08-2019.06` __<a href="https://www.uniquify.com">Uniquify</a>, SanJose, CA, USA__ (ASIC 개발, SoC설계 및 IP solutions 제공 업체)
+- ASIC PnR & ECO
+- Perl 활용 Timing/Violation Report 요약 프로그램 개발
+- TensorFlow 활용 AI Vision 개발
+
 
 ## Publications
 A list is also available [online](http://scholar.google.co.uk/citations?user=U24LXHAAAAAJ)
@@ -61,6 +77,8 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+## Certificate
+`SQLD`, `ADP`
 
 <!-- ### Footer
 
