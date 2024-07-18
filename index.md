@@ -30,7 +30,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-AI, MLOps, LLM, Efficiency, Efficient AI.
+AI, MLOps, LLM, Efficiency, Efficient AI, Lightweight-AI, Time-series, Vision, NLP
 
 
 ## Education
