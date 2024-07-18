@@ -65,15 +65,15 @@ body {
 /* hsmin */
 
 .profile-image {
+    float: right;
     display: block; /* 블록 요소로 표시 */
     width: 150px;
     height: 150px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin: 5px 10px 10px 10px;
+    margin: 20px 20x 20px 20px;
     border-radius: 40%; /* 반지름이 이미지의 가로 또는 세로 길이의 절반과 같도록 설정 */
     overflow: hidden; /* 둥근 모서리를 가진 이미지를 위한 오버플로우 제어 */
 }
-
 /* ----------------- */
 
 p {
