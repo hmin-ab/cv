@@ -59,6 +59,11 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
   - M. Kim, J. Kang, D. Kim, H. Song, **H. Min**, Y. Nam, D. Park, and J. Lee
   - `Time-series`, `COVID-19`, `Transformer`
 
+## Patents
+- [p3] Lee, JG., Kim, D., Min, H., Nam, Y., Song, H., Yoon, S., and Kim, M., "Aapparatus and method for predicting economic impact of mass infections based deep neural network" Korean Patent Registration No: 10-2583776-0000, Sep. 22, 2023.
+- [p2] Lee, JG, Kim, M., Kang, J., Kim, D., Song, H., **Min, H.**, Nam, Y., and Park, D., "Method and apparatus for predicting imported infectious disease information based on deep neural networks" US Patent Registration No: US11557401B2, Jan. 17, 2023.
+- [p1] ] Lee, J, Kim, M., Kang, J., Kim, D., Song, H., Min, H., Nam, Y., and Park, D., "Method and Apparatus for Predicting Confirmed Patients of Infectious Disease Based on Deep Neural Networks" Korean Patent Registration No: 10-2349270-0000, Jan. 05, 2022.
+- 
 ## Certificate
 - SQLD
 - ADP
