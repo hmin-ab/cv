@@ -117,10 +117,10 @@ ul {
 
 /* 첫 번째 레벨의 li */
 ul li:before {
-    content: "⚫"; /* 작은 네모 */
+    content: "◾"; /* 작은 네모 */
     position: relative;
-    left: -0.25em;
-    font-size: 0.3em; /* 기호 크기 조정 */
+    left: -1.0em;
+    font-size: .7em; /* 기호 크기 조정 */
 }
 
 /* 두 번째 레벨의 li */
