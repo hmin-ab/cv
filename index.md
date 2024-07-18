@@ -16,7 +16,7 @@ title: Hyangsuk Min's CV
     </div>
 </div>
 
-
+<div class="text-container">
 ## Education
 `2020.03-2022.08` __MS in Data Science, Korea Advance Institute of Science Technology, Daejeon, Korea.__
 - GPA: 4.12/4.3
@@ -67,7 +67,7 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=U24
 ## Certificate
 - SQLD
 - ADP
-
+</div>
 ### Footer
 Last updated: May 2024
 
