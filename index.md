@@ -2,7 +2,9 @@
 layout: cv
 title: Hyangsuk Min's CV
 ---
-<img src="./assets/grace_avatar.jpeg", height="100x", width="100px">
+<figure>
+  <img src="./assets/grace_avatar.jpeg", height="150x", width="150px">
+</figure>
 
 # Hyangsuk Min
 
