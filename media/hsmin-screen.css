@@ -64,7 +64,9 @@ body {
 }
 
 /* hsmin */
-
+.header-content{
+	
+}
 .profile-image {
     display: block; /* 블록 요소로 표시 */
     width: 150px;
@@ -82,6 +84,7 @@ p {
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
+	text-align: justify; /* 양쪽 끝 정렬 */
 }
 
 code {
