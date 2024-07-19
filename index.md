@@ -2,9 +2,8 @@
 layout: cv
 title: Hyangsuk Min's CV
 ---
+<img src="./assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
 <div class="header-container">
-    <img src="./assets/grace_avatar.jpeg" alt="profile avatar" class="profile-image">
-
     <h1>Hyangsuk Min</h1>
     <p>AI Research Engineer</p>
     
